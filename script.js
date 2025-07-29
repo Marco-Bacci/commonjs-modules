@@ -15,9 +15,9 @@ console.log(hobbies)
 // terzo step 
 
 const createObject = require ('./modules/people')
-const finalObect = createObject();
+const finalObject = createObject();
 
-console.log(finalObect)
+console.log(finalObject)
 
 // quarta soluzione
 

@@ -5,4 +5,5 @@ const getNames = (firstName, lastName) => {
   };
 };
 
+
 module.exports = getNames;
